@@ -164,4 +164,4 @@ def add_standard_navbar_items():
 
 def add_app_name():
 	settings = frappe.get_doc("System Settings")
-	settings.app_name = _("ERPNext")
+	settings.app_name = _("Macaash IT Solutions")
